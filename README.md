@@ -7,8 +7,6 @@
     <title>Projeto pai lindo</title>
     <!---CSS-->
     <link rel="stylesheet" href="style.css">
-    <script src="https://giovanep4mg.github.io/projetos-JS-CSS-HTML/efeitos.js"></script>
-    <link href="https://giovanep4mg.github.io/projetos-JS-CSS-HTML/style.css" rel="stylesheet">
 </head>
 <body>
     <main>
