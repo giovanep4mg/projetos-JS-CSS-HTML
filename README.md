@@ -1,13 +1,12 @@
-# projetos-JS-CSS-HTML
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto pai lindo</title>
     <!---CSS-->
     <link rel="stylesheet" href="style.css">
+    <link href="https://giovanep4mg.github.io/projetos-JS-CSS-HTML/style.css" rel="stylesheet">
 </head>
 <body>
     <main>
@@ -25,12 +24,7 @@
         <div class="fotoGato">
             <img src="gato de botas2.png" alt="imagem do gato de botas" id="foto" width="400" height="400">
         </div>
-        <div>
-            <button id="bonito">Bonito</button>
-            <button id="feio">Feio</button>
-        </div>
     </main>
     <!--JS-->
-    <script src="efeitos.js"></script>
 </body>
 </html>
